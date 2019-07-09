@@ -1,0 +1,12 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
+
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="control_background">#cc4285f4</color>
+
+    <!-- Button selector color -->
+    <color name="pressed">#CC3C72CF</color>
+    <color name="focused">#599AD5</color>
+    <color name="def">#8E9192</color>
+</resources>

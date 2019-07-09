@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Auto Repair Cloud</string>
+    <string name="scan">Scan</string>
+    <string name="license_plat_search_owner">License Plate Search</string>
+    <string name="login">Login</string>
+
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="send_photo">Send photo</string>
+    <string name="send_video">Send video</string>
+    <string name="speech_converter">Speech converter</string>
+
+    <string name="turn_on_flashlight">Turn on Flashlight</string>
+    <string name="turn_off_flashlight">Turn off Flashlight</string>
+
+    <string name="stop">Stop</string>
+    <string name="record">Record</string>
+</resources>
